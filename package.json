@@ -1,0 +1,12 @@
+{
+  "name": "streetstage-platform",
+  "version": "2.0.0",
+  "description": "StreetStage — Street Performer Slot Booking Portal (Microservice Architecture)",
+  "scripts": {
+    "install:all": "cd auth-service && npm install && cd ../booking-service && npm install && cd ../api-gateway && npm install && cd ../frontend && npm install && cd ..",
+    "start:auth": "cd auth-service && node server.js",
+    "start:booking": "cd booking-service && node server.js",
+    "start:gateway": "cd api-gateway && node server.js",
+    "start:frontend": "cd frontend && npm start"
+  }
+}
