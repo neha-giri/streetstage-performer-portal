@@ -1,12 +1,8 @@
 # AI Usage Log & Reflection Report
-## SE ZG503 — Full Stack Application Development
-### Project: StreetStage — Street Performer Slot Booking Portal
-
----
 
 ## 1. AI Tool Used
 
-**Tool:** Claude (claude.ai)  
+**Tool:** Claude,chagpt,perplexity 
 **Approach:** Option A — Built from scratch manually, AI used only for reference ,research and boilerplate, documentation.
 
 ---

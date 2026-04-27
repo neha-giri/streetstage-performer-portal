@@ -1,11 +1,8 @@
-# 🎭 StreetStage — Street Performer Slot Booking Portal
+#  StreetStage — Street Performer Slot Booking Portal
 
-> SE ZG503 Full Stack Application Development — Assignment Submission
+> Full Stack Application Development — Assignment Submission
 
-**Student:** Neha Giri | **ID:** 2025TM93144@wilp.bits-pilani.ac.in 
-**Submission Date:** 4th May 2026  
-**Approach:** Option A — Built from scratch with AI assistance (Claude)
-
+**Student:** Neha Giri | **ID:** 2025TM93144
 ---
 
 ## Problem Statement
